@@ -51,10 +51,11 @@ Year | Award | Category
 
 Here is a horizontal rule
 
+## Skills
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
+  <td><h3>Technical</h3></td>
+  <td><h3>Soft</h3></td>
  </tr>
  <tr>
     <td>Lorem ipsum ...</td>
