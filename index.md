@@ -19,6 +19,31 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
 
+## Occupation
+
+`2015 - 2020`
+**Sound Engineer**, *Vondelbunker*, Amsterdam
+- *Afmixen muziek d.m.v. equalisatie en audio-effecten*
+- *Omzetten ideeën producer naar geluid*
+
+`2014 - 2015`
+**Board Member**, *Rood Jong in de SP*, Amersfoort
+- *Setting up affinity groups with young motivated members nationwide*
+- *Organizing schooling, from how to organize people for local issues to a summer camp*
+- *Organizing nationwide campaign surrounding student loans*
+
+`2011 - 2012`
+**Intern Political Staff**, *SP*, Amsterdam
+- *Internship at the SP at the city hall of Amsterdam*
+- *Researching for debates and meetings*
+- *Preparing press statements and personal briefings*
+
+`2011 - 2013`
+**Sales Representative**, *Pepperminds*, Breda & Amsterdam
+- *Direct sales of newspaper subscriptions*
+- *Independent working*
+- *Daily goals*
+
 ## Typography
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
