@@ -43,19 +43,12 @@ This is a [link](http://google.com). Something *italics* and something **bold**.
 
 Here is a table
 
-Year      | Award 
+Year      | Award
 ----------|-------
-Java      | Emmy  
-Python    | BAFTA 
-Linux     | Satellite 
-Go
-Javascript
-Typescript
-Hibernate
-Maven
-React
-Scrum
-Git
+Java      | Emmy
+Python    | BAFTA
+Linux     | Satellite
+
  
  
  
