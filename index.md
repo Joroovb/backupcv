@@ -41,20 +41,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
 
-Here is a table
-
-Year      | Award
-----------|-------
-Java      | Emmy
-Python    | BAFTA
-Linux     | Satellite
-
- 
- 
- 
-
-Here is a horizontal rule
-
 ## Skills
 <table border="0">
  <tr>
@@ -62,9 +48,59 @@ Here is a horizontal rule
   <td><h3>Soft</h3></td>
  </tr>
  <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
+    <td>Java</td>
+    <td>Scrum</td>
  </tr>
+  <tr>
+    <td>Python</td>
+    <td></td>
+ </tr>
+  <tr>
+    <td>Linux</td>
+    <td></td>
+ </tr>
+  <tr>
+    <td>Go</td>
+    <td></td>
+ </tr>
+  <tr>
+    <td>Javascript</td>
+    <td></td>
+ </tr>
+   <tr>
+    <td>Typescript</td>
+    <td></td>
+ </tr>
+ <tr>
+    <td>Hibernate</td>
+    <td></td>
+ </tr>
+ <tr>
+    <td>Maven</td>
+    <td></td>
+ </tr>
+ <tr>
+    <td>React</td>
+    <td></td>
+ </tr>
+ <tr>
+    <td>Git</td>
+    <td></td>
+ </tr>
+ <tr>
+    <td></td>
+    <td></td>
+ </tr>
+ <tr>
+    <td></td>
+    <td></td>
+ </tr>
+ <tr>
+    <td></td>
+    <td></td>
+ </tr>
+ 
+ 
 </table>
 
 
