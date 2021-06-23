@@ -3,24 +3,8 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [jorisvanbreugel@gmail.com](mailto:jorisvanbreugel@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Github: [Github](https://github.com/joroovb)
 
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
-
----
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+* Youtube: [Code Café](https://www.youtube.com/c/codecafe)
