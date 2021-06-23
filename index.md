@@ -108,4 +108,4 @@ Here is a blockquote
 
 ## References
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
+* Maarten Reesink: Faculty of Humanities, Media Studies, University of Amsterdam
