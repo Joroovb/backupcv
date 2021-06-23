@@ -1,5 +1,5 @@
-title: Researcher
-url: "https://ankitsultana.com"
+title: Joris van Breugel
+url: "https://joroovb.github.io"
 baseurl: "/researcher"
 
 markdown: kramdown
@@ -8,8 +8,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://github.com/Joroovb/"
+footer_text: "Last updated: June 2021"
 
 sass:
     style: compressed
