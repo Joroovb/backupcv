@@ -13,6 +13,20 @@ I hope to do a PhD someday. In my spare time I like to cuddle with cats, play mu
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 
 ## Occupation
+`2021 - Now`
+Junior IT Docent
+- *Personal Coaching*
+- *Preparing and giving lectures and practical training*
+- *Online Lectures*
+- *Planning training tracks*
+
+`2020 - 2020`
+**Full Stack Developer Trainee**, *Qien*, Utrecht
+- *Fontend development with Javascript and React*
+- *Backend development with Java*
+- *OCA certification training*
+- *Scrum training*
+- *Devops with Jenkins and Github Actions*
 
 `2015 - 2020`
 **Sound Engineer**, *Vondelbunker*, Amsterdam
