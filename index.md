@@ -6,11 +6,11 @@ layout: default
 
 <img class="profile-picture" src="profile.jpg">
 
-Programmer. Teacher. Tinkerer. I hope to do a PhD someday. In my spare time I like to cuddle with cats, play music and automate my home.
+Programmer. Teacher. Tinkerer. Currently teaching programming and making Youtube content for Code Café. Building hardware and software is my passion. Trying to learn new things everyday! I hope to do a PhD someday. In my spare time I like to cuddle with cats, play music and automate my home.
 
 ## Occupation
 `2021 - Now`
-Junior IT Docent
+**Junior IT Docent**, *Code Café*, Utrecht
 - *Personal Coaching*
 - *Preparing and giving lectures and practical training*
 - *Online Lectures*
@@ -71,23 +71,23 @@ Junior IT Docent
  </tr>
   <tr>
     <td>Javascript</td>
-    <td></td>
+    <td>Lecturing</td>
  </tr>
    <tr>
     <td>Typescript</td>
-    <td></td>
+    <td>Communicative</td>
  </tr>
  <tr>
     <td>Hibernate</td>
-    <td></td>
+    <td>Qualitative Analysis</td>
  </tr>
  <tr>
     <td>Maven</td>
-    <td></td>
+    <td>Direct Sales</td>
  </tr>
  <tr>
     <td>React</td>
-    <td></td>
+    <td>Data Analysis</td>
  </tr>
  <tr>
     <td>Git</td>
@@ -98,11 +98,7 @@ Junior IT Docent
     <td></td>
  </tr>
  <tr>
-    <td>Shell Scripts</td>
-    <td></td>
- </tr>
- <tr>
-    <td></td>
+    <td>Data Visualization</td>
     <td></td>
  </tr>
 </table>
@@ -117,6 +113,14 @@ Oracle Certified Associate
 
 `2015`
 Personal Leadership
+
+## Languages
+### Native
+- Dutch
+- English
+
+### Adept
+- German
 
 ## References
 
