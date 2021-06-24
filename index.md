@@ -6,11 +6,7 @@ layout: default
 
 <img class="profile-picture" src="profile.jpg">
 
-I hope to do a PhD someday. In my spare time I like to cuddle with cats, play music and automate my home.
-
-## Research Interest
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+Programmer. Teacher. Tinkerer. I hope to do a PhD someday. In my spare time I like to cuddle with cats, play music and automate my home.
 
 ## Occupation
 `2021 - Now`
@@ -22,11 +18,11 @@ Junior IT Docent
 
 `2020 - 2020`
 **Full Stack Developer Trainee**, *Qien*, Utrecht
-- *Fontend development with Javascript and React*
+- *Frontend development with Javascript and React*
 - *Backend development with Java*
 - *OCA certification training*
 - *Scrum training*
-- *Devops with Jenkins and Github Actions*
+- *DevOps with Jenkins and Github Actions*
 
 `2015 - 2020`
 **Sound Engineer**, *Vondelbunker*, Amsterdam
@@ -63,15 +59,15 @@ Junior IT Docent
  </tr>
   <tr>
     <td>Python</td>
-    <td></td>
+    <td>Personal Leadership</td>
  </tr>
   <tr>
     <td>Linux</td>
-    <td></td>
+    <td>Personal Coaching</td>
  </tr>
   <tr>
     <td>Go</td>
-    <td></td>
+    <td>Lesson Planning</td>
  </tr>
   <tr>
     <td>Javascript</td>
@@ -98,27 +94,29 @@ Junior IT Docent
     <td></td>
  </tr>
  <tr>
+    <td>Docker</td>
     <td></td>
+ </tr>
+ <tr>
+    <td>Shell Scripts</td>
     <td></td>
  </tr>
  <tr>
     <td></td>
     <td></td>
  </tr>
- <tr>
-    <td></td>
-    <td></td>
- </tr>
- 
- 
 </table>
 
+## Certification
 
----
+`2020`
+Scrum PSM-1
 
-Here is a blockquote
+`2020`
+Oracle Certified Associate
 
-> To a great mind, nothing is little
+`2015`
+Personal Leadership
 
 ## References
 
