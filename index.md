@@ -41,10 +41,12 @@ Programmer. Teacher. Tinkerer. Currently teaching programming and making Youtube
 - *Internship at the SP at the city hall of Amsterdam*
 - *Researching for debates and meetings*
 - *Preparing press statements and personal briefings*
+
 <br>
 <br>
 <br>
 <br>
+
 `2011 - 2013`
 **Sales Representative**, *Pepperminds*, Breda & Amsterdam
 - *Direct sales of newspaper subscriptions*
