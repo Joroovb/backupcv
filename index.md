@@ -26,8 +26,9 @@ Programmer. Teacher. Tinkerer. Currently teaching programming and making Youtube
 
 `2015 - 2020`
 **Sound Engineer**, *Vondelbunker*, Amsterdam
-- *Afmixen muziek d.m.v. equalisatie en audio-effecten*
-- *Omzetten ideeën producer naar geluid*
+- *Mixing live music, with both digital and analog equipment*
+- *Producing recording sessions*
+- *Maintaining equipment*
 
 `2014 - 2015`
 **Board Member**, *Rood Jong in de SP*, Amersfoort
@@ -46,6 +47,14 @@ Programmer. Teacher. Tinkerer. Currently teaching programming and making Youtube
 - *Direct sales of newspaper subscriptions*
 - *Independent working*
 - *Daily goals*
+
+## Education
+
+`2018 - 2019`
+**Master New Media and Digital Culture**, *University of Amsterdam*
+
+`2015 - 2018`
+**Bachelor Media Studies**, *University of Amsterdam
 
 ## Skills
 <table>
