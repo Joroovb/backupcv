@@ -54,7 +54,7 @@ Programmer. Teacher. Tinkerer. Currently teaching programming and making Youtube
 **Master New Media and Digital Culture**, *University of Amsterdam*
 
 `2015 - 2018`
-**Bachelor Media Studies**, *University of Amsterdam
+**Bachelor Media Studies**, *University of Amsterdam*
 
 ## Skills
 <table>
