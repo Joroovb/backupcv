@@ -43,7 +43,8 @@ Programmer. Teacher. Tinkerer. Currently teaching programming and making Youtube
 - *Preparing press statements and personal briefings*
 <br>
 <br>
-
+<br>
+<br>
 `2011 - 2013`
 **Sales Representative**, *Pepperminds*, Breda & Amsterdam
 - *Direct sales of newspaper subscriptions*
