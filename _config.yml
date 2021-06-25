@@ -8,7 +8,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/Joroovb/"
+footer_url: "https://jorisvanbreugel.com"
 footer_text: "Last updated: June 2021"
 
 sass:
