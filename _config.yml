@@ -1,6 +1,6 @@
 title: Joris van Breugel
-url: "https://joroovb.github.io"
-baseurl: "/researcher"
+url: "https://jorisvanbreugel.com"
+baseurl: "/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "/"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
